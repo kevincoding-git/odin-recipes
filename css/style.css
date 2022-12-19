@@ -1,0 +1,26 @@
+* {
+    background-color: #F8EDE3;
+    text-decoration: none;
+    color: #000000;
+}
+
+h1,
+h3 {
+    font-family: Rubik, sans-serif;
+}
+
+img {
+    width: 720px;
+    height: auto;
+}
+
+p,
+a,
+.list {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    background-color: #85586F;
+    color: #ffffff;
+}
